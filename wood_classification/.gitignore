@@ -1,0 +1,7 @@
+check_points/
+data/
+__pycache__/
+.ipynb_checkpoints/
+utils.py
+xception.py
+Untitled-1.ipynb
